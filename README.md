@@ -12,6 +12,7 @@ Welcome to the Widget Tutorial App! This app provides step-by-step tutorials for
 
 I will include some screenshots of my app to showcase its interface and features. I can add them to a separate "screenshots" directory in my repository and provide links here.
 
+
 ## Installation
 
 To run the Widget Tutorial App locally, follow these steps:
@@ -43,6 +44,6 @@ I will provide a brief introduction about myself and my motivation for creating 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to me. You can contact me via email at [your.email@example.com](mailto:your.email@example.com) or through my [personal website](https://www.yourwebsite.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to me. You can contact me via email at [eyosiasbitsu@gmail.com](mailto:eyosiasbitsu@gmail.com).
 
 Happy learning and building with Flutter!
