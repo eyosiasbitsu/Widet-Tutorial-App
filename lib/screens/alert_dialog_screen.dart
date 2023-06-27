@@ -9,10 +9,10 @@ class AlertDialogScreen extends StatelessWidget{
   Widget build(BuildContext context){
     return Scaffold(
       appBar: AppBar(
-        title: Text('Alert Dialog Tutorial'),
+        title: const Text('Alert Dialog Tutorial'),
       ),
 
-      body: Column(
+      body: const Column(
         children: [
           Text('AlertDialog Widget'),
 
