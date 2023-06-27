@@ -2,6 +2,8 @@
 import 'package:flutter/material.dart';
 
 class InteractiveViewerScreen extends StatelessWidget{
+  const InteractiveViewerScreen({super.key});
+
   @override
 
   Widget build(BuildContext context){
